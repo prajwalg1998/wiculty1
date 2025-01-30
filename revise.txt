@@ -1,0 +1,7 @@
+pwd=presentworkingdirectory
+ifconfig=to check the ip of the machine.
+hostname=machine name
+mkdir=make directory
+sed s/existingword/newword/ filename
+grep "word" filename
+find . -type d -name "directoryname"
